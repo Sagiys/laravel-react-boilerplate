@@ -19,6 +19,12 @@ What things you need to install the software and how to install them
 
 A step by step series of examples that tell you how to get a development env running
 
+Go to project folder and run
+
+```batch
+\boilerplate> cp .env.example .env
+```
+
 Go to your working directory and clone repository
 
 ```batch
