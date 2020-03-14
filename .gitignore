@@ -54,8 +54,6 @@ yarn-error.log
 ._.DS_Store
 **/.DS_Store
 **/._.DS_Store
-webpack.mix.js
-**/webpack.mix.js
 composer.phar
 **/composer.phar
 **/log
