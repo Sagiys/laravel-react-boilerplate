@@ -73,6 +73,6 @@ mix.react(sourceJsPath, publicJsPath)
         'redux-promise-middleware',
         'redux-thunk',
         'axios'
-    ], `${publicJsPath}vendors.js`);
+    ], `${publicJsPath}vendor.js`);
 
 // mix.copy(sourceAssetsPath, publicAssetsPath)
