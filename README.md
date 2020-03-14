@@ -25,13 +25,6 @@ Go to your working directory and clone repository
 \> git clone https://github.com/boilerplate.git
 ```
 
-Go to project subfolder and run
-
-```batch
-\boilerplate> cp .env.example .env
-\boilerplate> cp .webpack.mix.js.example .webpack.mix.js
-```
-
 Webpack is ready to run but u need to change APP_URL in .env file and database credentials
 
 Next, update all dependencies
