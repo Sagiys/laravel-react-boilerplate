@@ -1,1 +1,1 @@
-cp -a ./resources/assets ../
+cp -a ./resources/assets public/assets

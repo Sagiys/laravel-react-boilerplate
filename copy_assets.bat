@@ -1,1 +1,1 @@
-xcopy resources\assets ..\assets /E /H /K
+xcopy resources\assets public\assets /E /H /K
